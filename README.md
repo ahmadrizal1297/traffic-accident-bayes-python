@@ -4,11 +4,13 @@ analysis of data about traffic accidents in an area. analysis is useful to see w
 we get this data from kaggle.com:
 https://www.kaggle.com/apiraino/baton-rouge-traffic
 
-##Installation
-- Install python
-- Install sklearn: "pip install sklearn"
+### Installation
 
-##Run
-- execute script "python traffic_app.py"
+- Install python
+- Install sklearn: `pip install sklearn`
+
+### Run
+
+- execute script `python traffic_app.py`
 
 Thanks :)
